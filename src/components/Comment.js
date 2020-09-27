@@ -16,7 +16,7 @@ const Comment = function() {
 			</div>
 			<div className='commentBody'>
 				<p>
-					Hey are an aspiring front end developer and preparing for interviews, then this blog is for you.
+					Its a sample and preparing for interviews, then this blog is for you.
 					This blog on Top 50 React Interview Questions
 				</p>
 			</div>
